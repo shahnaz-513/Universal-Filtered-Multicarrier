@@ -17,7 +17,8 @@ We simulated a **UFMC transmitter system** in MATLAB, based on the theoretical m
 6. **Subband filtering** using FIR filters.  
 7. **Summation** of filtered subbands - Final UFMC signal.   
 
-MATLAB script: `ufmcUpdated.m` - attached in the repository
+MATLAB script: `ufmcUpdated.m` - attached in the repository 
+Project report: `UFMC.pdf` - attached in the repository
 
 Effects of varying parameters 
 - **IFFT size** - Larger size improves frequency resolution.  
