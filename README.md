@@ -28,7 +28,3 @@ Effects of varying parameters
 - UFMC successfully addresses OFDM’s cyclic prefix overhead and FBMC’s high complexity.  
 - The MATLAB simulation matches theoretical expectations.  
 - Parameter tuning (e.g., filter length, IFFT size) directly impacts spectral characteristics.  
-
-
-👨‍💻 **Authors:** *Your Team*  
-📅 *2025*  
